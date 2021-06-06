@@ -1,1 +1,1 @@
-# Image-Classification
+# Deep Learning Projects
